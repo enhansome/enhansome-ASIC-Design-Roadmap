@@ -1,0 +1,410 @@
+{
+  "items": [
+    {
+      "description": "Many students and entry-level engineers want to break into the world of IC design but are unsure where to begin or how to build strong fundamentals. When you search for resources online, the flood of random posts and YouTube videos can leave you even more lost and overwhelmed. That’s why I decided to build this open-source roadmap — to make the learning process smoother and more organized for anyone looking to enter the industry.\nWhether you’re a student, fresh graduate, or an engineer transitioning into VLSI, this roadmap is tailored to help you navigate Physical Design — one of the most critical and challenging domains in ASIC development.\nThis roadmap is not just a list of tools or topics. It’s a carefully structured guide with:",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a clear path to follow — with carefully selected courses, resources, and projects that balance theory and practice. Whether you're a beginner or transitioning from FPGA/Embedded design, this roadmap is crafted to guide you through every phase of ASIC development.",
+      "items": [],
+      "title": "🧾 Introduction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧱 Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 ASIC Design Flow"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌍 Awesome Digital IC Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Project Repositories and IPs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Basic Verilog Modules",
+          "description": "📍 - Synthesizable Verilog modules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-03-12T08:19:20Z",
+            "owner": "pConst",
+            "repo": "basic_verilog",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "32 Mini Projects (Verilog)",
+          "description": "📍👶",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-08-06T13:18:36Z",
+            "owner": "Sudhamshu091",
+            "repo": "32-Verilog-Mini-Projects",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Core IPs and Repos"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Information Technology"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XiangShan",
+          "description": "📍 - Open-source high-performance RISC-V processor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T17:17:08Z",
+            "owner": "OpenXiangShan",
+            "repo": "XiangShan",
+            "stars": 7187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RISC-V Instruction Set Manual",
+          "description": "This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-10T18:19:02Z",
+            "owner": "riscv",
+            "repo": "riscv-isa-manual",
+            "stars": 4755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picorv32",
+          "description": "📍 - A Size-Optimized RISC-V CPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-07-31T05:59:04Z",
+            "owner": "YosysHQ",
+            "repo": "picorv32",
+            "stars": 4328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VexRiscv",
+          "description": "📍 - A FPGA friendly 32 bit RISC-V CPU implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-02-11T09:06:28Z",
+            "owner": "SpinalHDL",
+            "repo": "VexRiscv",
+            "stars": 3221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CVA6 RISC-V CPU",
+          "description": "📍 - An application class 6-stage RISC-V CPU capable of booting Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-08-13T15:14:27Z",
+            "owner": "openhwgroup",
+            "repo": "cva6",
+            "stars": 3064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darkriscv",
+          "description": "📍 - A proof of concept for the opensource RISC-V instruction set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-05-12T04:31:28Z",
+            "owner": "darklife",
+            "repo": "darkriscv",
+            "stars": 2598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wujian100",
+          "description": "📍 - A MCU base SoC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2021-12-31T09:23:38Z",
+            "owner": "XUANTIE-RV",
+            "repo": "wujian100_open",
+            "stars": 2006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hummingbirdv2 E203 Core and SoC",
+          "description": "📍 Docs - A Ultra-Low Power RISC-V Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-08-06T02:51:06Z",
+            "owner": "riscv-mcu",
+            "repo": "e203_hbirdv2",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openc910",
+          "description": "📍 - OpenXuantie C910 Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2024-06-28T12:18:17Z",
+            "owner": "XUANTIE-RV",
+            "repo": "openc910",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PULP",
+          "description": "Open source Parallel Ultra-Low-Power RISC-V core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-11-26T08:28:19Z",
+            "owner": "pulp-platform",
+            "repo": "pulp",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riscv-starship",
+          "description": "📍 - Run rocket-chip on FPGA(Xilinx Virtex-7 VC707).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-11-16T05:15:32Z",
+            "owner": "sycuricon",
+            "repo": "starship",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "RISC-V"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nyuzi Processor",
+          "description": "📍 - GPGPU microprocessor architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-08T06:00:11Z",
+            "owner": "jbush001",
+            "repo": "NyuziProcessor",
+            "stars": 2215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zipcpu",
+          "description": "⭐📍 - with detailed comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2025-12-08T15:33:24Z",
+            "owner": "ZipCPU",
+            "repo": "zipcpu",
+            "stars": 1573
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RISC-V Guide",
+          "description": "📍 - A guide covering the RISC-V Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-01-04T22:44:46Z",
+            "owner": "mikeroyal",
+            "repo": "RISC-V-Guide",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARM Guide",
+          "description": "📍 - A guide covering ARM architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-04T18:32:38Z",
+            "owner": "mikeroyal",
+            "repo": "ARM-Guide",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Build a CPU"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FPGA Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-15T11:38:02Z",
+            "owner": "LeiWang1999",
+            "repo": "FPGA",
+            "stars": 5630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complex Programmable Logic Device (CPLD) Guide",
+          "description": "📍 - A guide covering CPLD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2022-01-09T22:16:26Z",
+            "owner": "mikeroyal",
+            "repo": "CPLD-Guide",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "FPGA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Icarus Verilog",
+          "description": "📍Github - A Verilog simulation and synthesis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:31:19Z",
+            "owner": "steveicarus",
+            "repo": "iverilog",
+            "stars": 3592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenROAD",
+          "description": "💬Doc 📍Github - An RTL-to-GDS Flow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Verilog",
+            "last_commit": "2026-08-13T18:58:14Z",
+            "owner": "The-OpenROAD-Project",
+            "repo": "OpenROAD",
+            "stars": 2967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More information about hardware dv tools on Awesome Open Hardware Verification - Tools",
+          "description": "and Awesome HWD Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-03T17:29:06Z",
+            "owner": "ben-marshall",
+            "repo": "awesome-open-hardware-verification",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree-core-ide",
+          "description": "📍- A VSCode-based HDL extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-17T05:16:53Z",
+            "owner": "microdynamics-cpu",
+            "repo": "tree-core-ide",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "🔹 Start slow, stay consistent.🔹 Simulate everything before synthesizing.🔹 Join VLSI communities and open-source projects.🔹 Learn by doing – replicate designs, break them, and fix them.\nIf this roadmap helped you, consider sharing it with others or contributing back to the repo!📬 For inquiries or collaborations: a.abdelazeem201@gmail.com",
+      "items": [],
+      "title": "🧠 Final Thoughts"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:59:37.901Z",
+    "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
+    "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
+    "enhanced_repository": "enhansome/enhansome-ASIC-Design-Roadmap",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🧠 ASIC Design Roadmap with stars"
+  }
+}
