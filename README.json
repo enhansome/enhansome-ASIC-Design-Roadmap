@@ -80,10 +80,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T15:09:12Z",
+            "last_commit": "2026-08-17T13:26:31Z",
             "owner": "OpenXiangShan",
             "repo": "XiangShan",
-            "stars": 7194
+            "stars": 7195
           }
         },
         {
@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TeX",
-            "last_commit": "2026-08-14T06:10:58Z",
+            "last_commit": "2026-08-17T18:29:13Z",
             "owner": "riscv",
             "repo": "riscv-isa-manual",
-            "stars": 4761
+            "stars": 4762
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-31T05:59:04Z",
             "owner": "YosysHQ",
             "repo": "picorv32",
-            "stars": 4335
+            "stars": 4339
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-02-11T09:06:28Z",
             "owner": "SpinalHDL",
             "repo": "VexRiscv",
-            "stars": 3224
+            "stars": 3227
           }
         },
         {
@@ -136,10 +136,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-16T01:06:41Z",
+            "last_commit": "2026-08-17T12:51:36Z",
             "owner": "openhwgroup",
             "repo": "cva6",
-            "stars": 3067
+            "stars": 3068
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2021-12-31T09:23:38Z",
             "owner": "XUANTIE-RV",
             "repo": "wujian100_open",
-            "stars": 2007
+            "stars": 2008
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2025-08-06T02:51:06Z",
             "owner": "riscv-mcu",
             "repo": "e203_hbirdv2",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-06-28T12:18:17Z",
             "owner": "XUANTIE-RV",
             "repo": "openc910",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2024-11-26T08:28:19Z",
             "owner": "pulp-platform",
             "repo": "pulp",
-            "stars": 567
+            "stars": 566
           }
         },
         {
@@ -342,7 +342,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T15:44:02Z",
+            "last_commit": "2026-08-17T02:32:07Z",
             "owner": "steveicarus",
             "repo": "iverilog",
             "stars": 3595
@@ -356,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": "Verilog",
-            "last_commit": "2026-08-15T16:54:32Z",
+            "last_commit": "2026-08-17T18:41:06Z",
             "owner": "The-OpenROAD-Project",
             "repo": "OpenROAD",
-            "stars": 2982
+            "stars": 2986
           }
         },
         {
@@ -400,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:33:24.188Z",
+    "last_updated": "2026-08-17T19:42:17.571Z",
     "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
     "enhanced_repository": "enhansome/enhansome-ASIC-Design-Roadmap",
