@@ -19,7 +19,7 @@
                     "last_commit": "2026-03-12T08:19:20Z",
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2009
+                    "stars": 2013
                   }
                 },
                 {
@@ -55,10 +55,10 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-19T19:38:45Z",
+                        "last_commit": "2026-08-20T17:32:08Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7201
+                        "stars": 7202
                       }
                     },
                     {
@@ -70,10 +70,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-19T14:41:29Z",
+                        "last_commit": "2026-08-20T06:54:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4765
+                        "stars": 4767
                       }
                     },
                     {
@@ -88,7 +88,7 @@
                         "last_commit": "2026-07-31T05:59:04Z",
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4343
+                        "stars": 4346
                       }
                     },
                     {
@@ -115,10 +115,10 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-19T14:26:40Z",
+                        "last_commit": "2026-08-20T09:51:30Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3069
+                        "stars": 3070
                       }
                     },
                     {
@@ -178,7 +178,7 @@
                         "last_commit": "2024-06-28T12:18:17Z",
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1464
+                        "stars": 1465
                       }
                     },
                     {
@@ -245,7 +245,7 @@
                         "last_commit": "2026-08-19T12:02:29Z",
                         "owner": "ZipCPU",
                         "repo": "zipcpu",
-                        "stars": 1573
+                        "stars": 1574
                       }
                     }
                   ],
@@ -316,7 +316,7 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5634
+                    "stars": 5637
                   }
                 },
                 {
@@ -358,7 +358,7 @@
                 "last_commit": "2026-08-17T02:32:07Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3598
+                "stars": 3601
               }
             },
             {
@@ -370,10 +370,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-19T18:29:13Z",
+                "last_commit": "2026-08-20T19:07:19Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 2991
+                "stars": 2996
               }
             },
             {
@@ -388,7 +388,7 @@
                 "last_commit": "2026-01-03T17:29:06Z",
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 618
+                "stars": 619
               }
             },
             {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:39:31.999Z",
+    "last_updated": "2026-08-20T19:45:43.968Z",
     "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
     "original_repository_id": 342916296,
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
