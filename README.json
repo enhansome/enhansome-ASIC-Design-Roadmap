@@ -152,7 +152,7 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-24T13:46:05Z",
+                        "last_commit": "2026-08-24T18:04:55Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
                         "stars": 7209
@@ -212,10 +212,10 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-24T13:52:58Z",
+                        "last_commit": "2026-08-24T18:42:29Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3074
+                        "stars": 3076
                       }
                     },
                     {
@@ -245,7 +245,7 @@
                         "last_commit": "2021-12-31T09:23:38Z",
                         "owner": "XUANTIE-RV",
                         "repo": "wujian100_open",
-                        "stars": 2010
+                        "stars": 2011
                       }
                     },
                     {
@@ -260,7 +260,7 @@
                         "last_commit": "2025-08-06T02:51:06Z",
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1901
+                        "stars": 1902
                       }
                     },
                     {
@@ -479,7 +479,7 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5648
+                    "stars": 5649
                   }
                 },
                 {
@@ -533,10 +533,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-24T12:36:18Z",
+                "last_commit": "2026-08-24T16:00:30Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3012
+                "stars": 3014
               }
             },
             {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:13.996Z",
+    "last_updated": "2026-08-24T19:44:40.200Z",
     "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
     "original_repository_id": 342916296,
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
