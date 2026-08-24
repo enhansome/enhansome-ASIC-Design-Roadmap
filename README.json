@@ -6,6 +6,103 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Awesome FPGA",
+              "description": "📍⭐ FPGA resources and boards",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61965054,
+                "language": null,
+                "last_commit": "2017-05-25T21:45:38Z",
+                "owner": "Vitorian",
+                "repo": "awesome-fpga",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome HDL",
+              "description": "📍⭐ Hardware description languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88018788,
+                "language": null,
+                "last_commit": "2026-07-09T02:37:45Z",
+                "owner": "drom",
+                "repo": "awesome-hdl",
+                "stars": 1169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Open Source EDA",
+              "description": "📍 Open-source EDA tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193008083,
+                "language": null,
+                "last_commit": "2019-06-26T20:20:17Z",
+                "owner": "clin99",
+                "repo": "awesome-eda",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Hardware Verification",
+              "description": "📍 Verification tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162694810,
+                "language": null,
+                "last_commit": "2026-01-03T17:29:06Z",
+                "owner": "ben-marshall",
+                "repo": "awesome-open-hardware-verification",
+                "stars": 619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome HWD Tools",
+              "description": "📍 Open-source IC design tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158928501,
+                "language": null,
+                "last_commit": "2025-06-20T13:22:17Z",
+                "owner": "TM90",
+                "repo": "awesome-hwd-tools",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Lattice FPGAs",
+              "description": "📍 Lattice FPGA board list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231812493,
+                "language": null,
+                "last_commit": "2026-07-09T19:00:55Z",
+                "owner": "kelu124",
+                "repo": "awesome-latticeFPGAs",
+                "stars": 360
+              }
+            }
+          ],
+          "description": "Curated lists and tools for ASIC/VLSI/FPGA engineers",
+          "node_type": "group",
+          "title": "🌍 Awesome Digital IC Resources"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -55,10 +152,10 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-23T16:02:43Z",
+                        "last_commit": "2026-08-24T13:46:05Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7204
+                        "stars": 7209
                       }
                     },
                     {
@@ -73,7 +170,7 @@
                         "last_commit": "2026-08-23T12:05:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4776
+                        "stars": 4779
                       }
                     },
                     {
@@ -88,7 +185,7 @@
                         "last_commit": "2026-07-31T05:59:04Z",
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4352
+                        "stars": 4354
                       }
                     },
                     {
@@ -103,7 +200,7 @@
                         "last_commit": "2026-02-11T09:06:28Z",
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3233
+                        "stars": 3232
                       }
                     },
                     {
@@ -115,10 +212,10 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-23T05:30:01Z",
+                        "last_commit": "2026-08-24T13:52:58Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3073
+                        "stars": 3074
                       }
                     },
                     {
@@ -163,7 +260,7 @@
                         "last_commit": "2025-08-06T02:51:06Z",
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1900
+                        "stars": 1901
                       }
                     },
                     {
@@ -178,7 +275,7 @@
                         "last_commit": "2024-06-28T12:18:17Z",
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1467
+                        "stars": 1469
                       }
                     },
                     {
@@ -269,6 +366,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "More information about hardware description language on Awesome HDL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88018788,
+                    "language": null,
+                    "last_commit": "2026-07-09T02:37:45Z",
+                    "owner": "drom",
+                    "repo": "awesome-hdl",
+                    "stars": 1169
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Verilog/SystemVerilog Guide",
+                      "description": "📍 - A guide covering Verilog & SystemVerilog.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 321790120,
+                        "language": "SystemVerilog",
+                        "last_commit": "2024-01-04T22:17:43Z",
+                        "owner": "mikeroyal",
+                        "repo": "Verilog-SystemVerilog-Guide",
+                        "stars": 94
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Verilog Grammar"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "VHDL Guide",
+                      "description": "📍 - A guide covering VHDL.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 426018585,
+                        "language": "VHDL",
+                        "last_commit": "2022-01-03T22:35:25Z",
+                        "owner": "mikeroyal",
+                        "repo": "VHDL-Guide",
+                        "stars": 78
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "VHDL Grammar"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "HDL"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "RISC-V Guide",
                   "description": "📍 - A guide covering the RISC-V Architecture.",
                   "children": [],
@@ -316,7 +479,7 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5646
+                    "stars": 5648
                   }
                 },
                 {
@@ -355,7 +518,7 @@
                 "archived": false,
                 "id": 16267,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:40:40Z",
+                "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
                 "stars": 3605
@@ -370,10 +533,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-23T16:05:48Z",
+                "last_commit": "2026-08-24T12:36:18Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3009
+                "stars": 3012
               }
             },
             {
@@ -416,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:34:40.372Z",
+    "last_updated": "2026-08-24T14:27:13.996Z",
     "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
     "original_repository_id": 342916296,
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
