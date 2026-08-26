@@ -152,10 +152,10 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-25T17:18:59Z",
+                        "last_commit": "2026-08-26T19:10:37Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7210
+                        "stars": 7213
                       }
                     },
                     {
@@ -167,10 +167,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-25T00:01:36Z",
+                        "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4785
+                        "stars": 4786
                       }
                     },
                     {
@@ -185,7 +185,7 @@
                         "last_commit": "2026-07-31T05:59:04Z",
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4358
+                        "stars": 4362
                       }
                     },
                     {
@@ -212,10 +212,10 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-25T19:33:48Z",
+                        "last_commit": "2026-08-26T14:33:12Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3078
+                        "stars": 3081
                       }
                     },
                     {
@@ -245,7 +245,7 @@
                         "last_commit": "2021-12-31T09:23:38Z",
                         "owner": "XUANTIE-RV",
                         "repo": "wujian100_open",
-                        "stars": 2012
+                        "stars": 2013
                       }
                     },
                     {
@@ -260,7 +260,7 @@
                         "last_commit": "2025-08-06T02:51:06Z",
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1902
+                        "stars": 1903
                       }
                     },
                     {
@@ -290,7 +290,7 @@
                         "last_commit": "2024-11-26T08:28:19Z",
                         "owner": "pulp-platform",
                         "repo": "pulp",
-                        "stars": 565
+                        "stars": 566
                       }
                     },
                     {
@@ -479,7 +479,7 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5650
+                    "stars": 5654
                   }
                 },
                 {
@@ -521,7 +521,7 @@
                 "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3606
+                "stars": 3609
               }
             },
             {
@@ -533,10 +533,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-25T18:29:11Z",
+                "last_commit": "2026-08-26T19:24:00Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3020
+                "stars": 3023
               }
             },
             {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:45:45.341Z",
+    "last_updated": "2026-08-26T22:07:17.306Z",
     "original_repository": "abdelazeem201/ASIC-Design-Roadmap",
     "original_repository_id": 342916296,
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
