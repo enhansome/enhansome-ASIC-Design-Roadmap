@@ -152,10 +152,10 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-27T10:31:38Z",
+                        "last_commit": "2026-08-28T03:22:35Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7216
+                        "stars": 7219
                       }
                     },
                     {
@@ -170,7 +170,7 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4787
+                        "stars": 4788
                       }
                     },
                     {
@@ -185,7 +185,7 @@
                         "last_commit": "2026-07-31T05:59:04Z",
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4363
+                        "stars": 4365
                       }
                     },
                     {
@@ -212,10 +212,10 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-27T09:42:24Z",
+                        "last_commit": "2026-08-28T01:53:04Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3083
+                        "stars": 3084
                       }
                     },
                     {
@@ -393,7 +393,7 @@
                         "last_commit": "2024-01-04T22:17:43Z",
                         "owner": "mikeroyal",
                         "repo": "Verilog-SystemVerilog-Guide",
-                        "stars": 94
+                        "stars": 95
                       }
                     }
                   ],
@@ -479,7 +479,7 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5655
+                    "stars": 5661
                   }
                 },
                 {
@@ -521,7 +521,7 @@
                 "last_commit": "2026-08-23T21:30:59Z",
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3610
+                "stars": 3612
               }
             },
             {
@@ -533,10 +533,10 @@
                 "archived": false,
                 "id": 218110222,
                 "language": "Verilog",
-                "last_commit": "2026-08-26T19:24:00Z",
+                "last_commit": "2026-08-27T23:43:37Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3024
+                "stars": 3026
               }
             },
             {
@@ -579,7 +579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:28.072Z",
+    "last_updated": "2026-08-28T03:35:07.620Z",
     "original_repository_info": {
       "archived": false,
       "id": 342916296,
