@@ -18,7 +18,8 @@
                 "owner": "Vitorian",
                 "repo": "awesome-fpga",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "drom",
                 "repo": "awesome-hdl",
                 "stars": 1169
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "clin99",
                 "repo": "awesome-eda",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-01-03T17:29:06Z",
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 620
-              }
+                "stars": 621
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "TM90",
                 "repo": "awesome-hwd-tools",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "kelu124",
                 "repo": "awesome-latticeFPGAs",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             }
           ],
           "description": "Curated lists and tools for ASIC/VLSI/FPGA engineers",
@@ -117,7 +123,8 @@
                     "owner": "pConst",
                     "repo": "basic_verilog",
                     "stars": 2015
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "Sudhamshu091",
                     "repo": "32-Verilog-Mini-Projects",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 }
               ],
               "description": null,
@@ -152,11 +160,12 @@
                         "archived": false,
                         "id": 271929004,
                         "language": "Scala",
-                        "last_commit": "2026-08-28T03:22:35Z",
+                        "last_commit": "2026-08-29T01:23:59Z",
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7219
-                      }
+                        "stars": 7222
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -170,8 +179,9 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4788
-                      }
+                        "stars": 4789
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -186,7 +196,8 @@
                         "owner": "YosysHQ",
                         "repo": "picorv32",
                         "stars": 4365
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -201,7 +212,8 @@
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
                         "stars": 3232
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -212,11 +224,12 @@
                         "archived": false,
                         "id": 118652371,
                         "language": "Assembly",
-                        "last_commit": "2026-08-28T01:53:04Z",
+                        "last_commit": "2026-08-28T23:20:41Z",
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3084
-                      }
+                        "stars": 3086
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -230,8 +243,9 @@
                         "last_commit": "2026-05-12T04:31:28Z",
                         "owner": "darklife",
                         "repo": "darkriscv",
-                        "stars": 2602
-                      }
+                        "stars": 2601
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -246,7 +260,8 @@
                         "owner": "XUANTIE-RV",
                         "repo": "wujian100_open",
                         "stars": 2013
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -260,8 +275,9 @@
                         "last_commit": "2025-08-06T02:51:06Z",
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1903
-                      }
+                        "stars": 1904
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -276,7 +292,8 @@
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
                         "stars": 1471
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -291,7 +308,8 @@
                         "owner": "pulp-platform",
                         "repo": "pulp",
                         "stars": 566
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -306,7 +324,8 @@
                         "owner": "sycuricon",
                         "repo": "starship",
                         "stars": 78
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     }
                   ],
                   "description": null,
@@ -328,7 +347,8 @@
                         "owner": "jbush001",
                         "repo": "NyuziProcessor",
                         "stars": 2219
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     },
                     {
                       "node_type": "item",
@@ -342,8 +362,9 @@
                         "last_commit": "2026-08-19T12:02:29Z",
                         "owner": "ZipCPU",
                         "repo": "zipcpu",
-                        "stars": 1576
-                      }
+                        "stars": 1577
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     }
                   ],
                   "description": null,
@@ -377,7 +398,8 @@
                     "owner": "drom",
                     "repo": "awesome-hdl",
                     "stars": 1169
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 },
                 {
                   "children": [
@@ -394,7 +416,8 @@
                         "owner": "mikeroyal",
                         "repo": "Verilog-SystemVerilog-Guide",
                         "stars": 95
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     }
                   ],
                   "description": null,
@@ -416,7 +439,8 @@
                         "owner": "mikeroyal",
                         "repo": "VHDL-Guide",
                         "stars": 79
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:11:51.893Z"
                     }
                   ],
                   "description": null,
@@ -443,7 +467,8 @@
                     "owner": "mikeroyal",
                     "repo": "RISC-V-Guide",
                     "stars": 660
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 },
                 {
                   "node_type": "item",
@@ -458,7 +483,8 @@
                     "owner": "mikeroyal",
                     "repo": "ARM-Guide",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 }
               ],
               "description": null,
@@ -479,8 +505,9 @@
                     "last_commit": "2022-05-15T11:38:02Z",
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5661
-                  }
+                    "stars": 5662
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 },
                 {
                   "node_type": "item",
@@ -495,7 +522,8 @@
                     "owner": "mikeroyal",
                     "repo": "CPLD-Guide",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:11:51.893Z"
                 }
               ],
               "description": null,
@@ -522,7 +550,8 @@
                 "owner": "steveicarus",
                 "repo": "iverilog",
                 "stars": 3612
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -536,8 +565,9 @@
                 "last_commit": "2026-08-27T23:43:37Z",
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3026
-              }
+                "stars": 3031
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -551,8 +581,9 @@
                 "last_commit": "2026-01-03T17:29:06Z",
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 620
-              }
+                "stars": 621
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             },
             {
               "node_type": "item",
@@ -567,7 +598,8 @@
                 "owner": "microdynamics-cpu",
                 "repo": "tree-core-ide",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T02:11:51.893Z"
             }
           ],
           "description": null,
@@ -579,7 +611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:35:07.620Z",
+    "last_updated": "2026-08-29T02:11:51.893Z",
     "original_repository_info": {
       "archived": false,
       "id": 342916296,
@@ -587,7 +619,7 @@
       "last_commit": "2025-07-18T15:40:57Z",
       "owner": "abdelazeem201",
       "repo": "ASIC-Design-Roadmap",
-      "stars": 554
+      "stars": 555
     },
     "original_repository_sha": "795d32ab6b5ba111e6eab968850671d824569692",
     "enhanced_repository": "enhansome/enhansome-ASIC-Design-Roadmap",
