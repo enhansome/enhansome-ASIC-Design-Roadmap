@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "Vitorian",
                 "repo": "awesome-fpga",
-                "stars": 399,
+                "stars": 400,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2018,
+                    "stars": 2017,
                     "topics": [
                       "altera",
                       "debounce",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-09-07T17:17:10Z",
+                        "last_commit": "2026-09-08T21:25:48Z",
                         "open_issues": 277,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7238,
+                        "stars": 7242,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-09-07T16:11:46Z",
-                        "open_issues": 182,
+                        "last_commit": "2026-09-08T14:27:51Z",
+                        "open_issues": 178,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4806,
+                        "stars": 4810,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -317,7 +317,7 @@
                       "description": "📍 - A Size-Optimized RISC-V CPU.",
                       "children": [],
                       "repo_info": {
-                        "archived": false,
+                        "archived": true,
                         "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
                         "homepage": null,
                         "id": 36978369,
@@ -344,11 +344,11 @@
                         "id": 84366787,
                         "language": "Assembly",
                         "license": "MIT",
-                        "last_commit": "2026-08-31T15:50:35Z",
-                        "open_issues": 132,
+                        "last_commit": "2026-09-08T07:09:22Z",
+                        "open_issues": 131,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3244,
+                        "stars": 3245,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-07T22:00:32Z",
-                        "open_issues": 256,
+                        "last_commit": "2026-09-08T21:41:48Z",
+                        "open_issues": 263,
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3094,
+                        "stars": 3096,
                         "topics": [
                           "ariane",
                           "asic",
@@ -434,7 +434,7 @@
                         "open_issues": 25,
                         "owner": "XUANTIE-RV",
                         "repo": "wujian100_open",
-                        "stars": 2015,
+                        "stars": 2016,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -455,7 +455,7 @@
                         "open_issues": 27,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1909,
+                        "stars": 1910,
                         "topics": [
                           "china",
                           "core",
@@ -559,7 +559,7 @@
                         "open_issues": 91,
                         "owner": "jbush001",
                         "repo": "NyuziProcessor",
-                        "stars": 2221,
+                        "stars": 2222,
                         "topics": [
                           "fpga",
                           "gpu",
@@ -842,7 +842,7 @@
                     "open_issues": 2,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5688,
+                    "stars": 5693,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-07T19:14:58Z",
-                "open_issues": 184,
+                "last_commit": "2026-09-08T00:52:09Z",
+                "open_issues": 185,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3627,
+                "stars": 3631,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T21:19:32Z",
+                "last_commit": "2026-09-08T21:17:35Z",
                 "open_issues": 221,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3076,
+                "stars": 3078,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:01:05.079Z",
+    "last_updated": "2026-09-08T21:51:22.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
