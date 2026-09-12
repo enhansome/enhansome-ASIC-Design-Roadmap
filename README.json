@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1171,
+                "stars": 1170,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2019,
+                    "stars": 2020,
                     "topics": [
                       "altera",
                       "debounce",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-09-11T17:04:40Z",
+                        "last_commit": "2026-09-12T18:08:38Z",
                         "open_issues": 292,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7250,
+                        "stars": 7252,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -345,10 +345,10 @@
                         "language": "Assembly",
                         "license": "MIT",
                         "last_commit": "2026-09-08T07:09:22Z",
-                        "open_issues": 131,
+                        "open_issues": 134,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3249,
+                        "stars": 3251,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,8 +374,8 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-11T17:21:10Z",
-                        "open_issues": 246,
+                        "last_commit": "2026-09-12T10:48:06Z",
+                        "open_issues": 247,
                         "owner": "openhwgroup",
                         "repo": "cva6",
                         "stars": 3106,
@@ -489,7 +489,7 @@
                         "open_issues": 59,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1473,
+                        "stars": 1474,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -640,7 +640,7 @@
                     "open_issues": 2,
                     "owner": "drom",
                     "repo": "awesome-hdl",
-                    "stars": 1171,
+                    "stars": 1170,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -842,7 +842,7 @@
                     "open_issues": 2,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5703,
+                    "stars": 5708,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -917,7 +917,7 @@
                 "open_issues": 186,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3632,
+                "stars": 3633,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T21:16:52Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-12T21:17:21Z",
+                "open_issues": 216,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3092,
+                "stars": 3094,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:43:54.984Z",
+    "last_updated": "2026-09-12T21:26:52.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
