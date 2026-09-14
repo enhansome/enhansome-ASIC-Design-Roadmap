@@ -106,7 +106,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-03T17:29:06Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
                 "stars": 625,
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-09-13T14:13:24Z",
-                        "open_issues": 291,
+                        "last_commit": "2026-09-14T16:33:17Z",
+                        "open_issues": 284,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7253,
+                        "stars": 7252,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-09-11T18:01:05Z",
-                        "open_issues": 177,
+                        "last_commit": "2026-09-14T21:17:48Z",
+                        "open_issues": 196,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4813,
+                        "stars": 4814,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -348,7 +348,7 @@
                         "open_issues": 134,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3252,
+                        "stars": 3254,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-13T21:08:42Z",
-                        "open_issues": 245,
+                        "last_commit": "2026-09-14T18:41:17Z",
+                        "open_issues": 247,
                         "owner": "openhwgroup",
                         "repo": "cva6",
-                        "stars": 3107,
+                        "stars": 3111,
                         "topics": [
                           "ariane",
                           "asic",
@@ -455,7 +455,7 @@
                         "open_issues": 27,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1913,
+                        "stars": 1914,
                         "topics": [
                           "china",
                           "core",
@@ -489,7 +489,7 @@
                         "open_issues": 59,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1474,
+                        "stars": 1476,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -589,7 +589,7 @@
                         "open_issues": 3,
                         "owner": "ZipCPU",
                         "repo": "zipcpu",
-                        "stars": 1581,
+                        "stars": 1582,
                         "topics": [
                           "cpu",
                           "cross-compiler",
@@ -754,7 +754,7 @@
                     "open_issues": 2,
                     "owner": "mikeroyal",
                     "repo": "RISC-V-Guide",
-                    "stars": 662,
+                    "stars": 661,
                     "topics": [
                       "android-app",
                       "computer-architecture",
@@ -842,7 +842,7 @@
                     "open_issues": 2,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5713,
+                    "stars": 5716,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -869,7 +869,7 @@
                     "open_issues": 0,
                     "owner": "mikeroyal",
                     "repo": "CPLD-Guide",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-13T19:19:35Z",
-                "open_issues": 189,
+                "last_commit": "2026-09-13T23:04:27Z",
+                "open_issues": 191,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3632,
+                "stars": 3633,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-13T19:39:53Z",
+                "last_commit": "2026-09-14T21:17:29Z",
                 "open_issues": 207,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3098,
+                "stars": 3100,
                 "topics": [
                   "cpp",
                   "def",
@@ -968,7 +968,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-03T17:29:06Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
                 "stars": 625,
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:26:03.107Z",
+    "last_updated": "2026-09-14T22:30:42.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
