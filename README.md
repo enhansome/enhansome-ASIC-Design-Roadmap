@@ -106,7 +106,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 | Name                                                                                                                               | Type | Description                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------ |
 | [Awesome FPGA](https://github.com/Vitorian/awesome-fpga) ⭐ 400 \| 🐛 4 \| 📅 2017-05-25                                            | 📍⭐  | FPGA resources and boards      |
-| [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,176 \| 🐛 2 \| 📅 2026-07-09                                                | 📍⭐  | Hardware description languages |
+| [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,177 \| 🐛 2 \| 📅 2026-07-09                                                | 📍⭐  | Hardware description languages |
 | [Awesome Open Source EDA](https://github.com/clin99/awesome-eda) ⭐ 103 \| 🐛 0 \| 📅 2019-06-26                                    | 📍   | Open-source EDA tools          |
 | [Awesome Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) ⭐ 627 \| 🐛 4 \| 📅 2026-01-03 | 📍   | Verification tools             |
 | [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 \| 🐛 0 \| 📅 2025-06-20                                       | 📍   | Open-source IC design tools    |
@@ -131,17 +131,17 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 #### RISC-V
 
-* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,289 | 🐛 304 | 🌐 Scala | 📅 2026-10-03 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
+* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,290 | 🐛 304 | 🌐 Scala | 📅 2026-10-03 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
 
-* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,841 | 🐛 188 | 🌐 TeX | 📅 2026-10-02 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
+* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,844 | 🐛 188 | 🌐 TeX | 📅 2026-10-02 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
 
 * [picorv32](https://github.com/YosysHQ/picorv32) ⚠️ Archived 📍![stars](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
 
-* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) ⭐ 3,282 | 🐛 145 | 🌐 Assembly | 📅 2026-09-27 📍![stars](https://img.shields.io/github/stars/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation.
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) ⭐ 3,282 | 🐛 146 | 🌐 Assembly | 📅 2026-09-27 📍![stars](https://img.shields.io/github/stars/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation.
 
-* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,142 | 🐛 270 | 🌐 Assembly | 📅 2026-10-02 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
+* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,143 | 🐛 271 | 🌐 Assembly | 📅 2026-10-02 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
 
-* [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,619 | 🐛 5 | 🌐 Verilog | 📅 2026-09-04 📍![stars](https://img.shields.io/github/stars/darklife/darkriscv) - A proof of concept for the opensource RISC-V instruction set.
+* [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,620 | 🐛 5 | 🌐 Verilog | 📅 2026-09-04 📍![stars](https://img.shields.io/github/stars/darklife/darkriscv) - A proof of concept for the opensource RISC-V instruction set.
 
 * [Wujian100](https://github.com/T-head-Semi/wujian100_open) ⭐ 2,026 | 🐛 25 | 🌐 Verilog | 📅 2021-12-31 📍![stars](https://img.shields.io/github/stars/T-head-Semi/wujian100_open) - A MCU base SoC.
 
@@ -168,7 +168,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ### HDL
 
-* More information about hardware description language on [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,176 | 🐛 2 | 📅 2026-07-09
+* More information about hardware description language on [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,177 | 🐛 2 | 📅 2026-07-09
 
 #### Verilog Grammar
 
@@ -204,7 +204,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ## Tools
 
-* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,666 | 🐛 187 | 🌐 C++ | 📅 2026-10-03![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
+* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,668 | 🐛 188 | 🌐 C++ | 📅 2026-10-03![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
 * [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,148 | 🐛 193 | 🌐 Verilog | 📅 2026-10-03![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
 * More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) ⭐ 627 | 🐛 4 | 📅 2026-01-03 and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 | 🐛 0 | 📅 2025-06-20
 * [tree-core-ide](https://github.com/microdynamics-cpu/tree-core-ide) ⭐ 112 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-17  📍![stars](https://img.shields.io/github/stars/microdynamics-cpu/tree-core-ide)- A VSCode-based HDL extension.
