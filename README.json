@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2023,
+                    "stars": 2024,
                     "topics": [
                       "altera",
                       "debounce",
@@ -233,7 +233,7 @@
                 {
                   "node_type": "item",
                   "title": "32 Mini Projects (Verilog)",
-                  "description": "📍👶",
+                  "description": "Sudhamshu091/32-Verilog-Mini-Projects",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-10-02T14:52:12Z",
-                        "open_issues": 300,
+                        "last_commit": "2026-10-03T01:49:49Z",
+                        "open_issues": 304,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7288,
+                        "stars": 7289,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -306,7 +306,7 @@
                         "open_issues": 188,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4840,
+                        "stars": 4841,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -374,7 +374,7 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-02T06:10:13Z",
+                        "last_commit": "2026-10-02T23:06:04Z",
                         "open_issues": 270,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
@@ -627,7 +627,7 @@
                 {
                   "node_type": "item",
                   "title": "More information about hardware description language on Awesome HDL",
-                  "description": null,
+                  "description": "drom/awesome-hdl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -829,7 +829,7 @@
                 {
                   "node_type": "item",
                   "title": "FPGA Tutorial",
-                  "description": null,
+                  "description": "LeiWang1999/FPGA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -913,8 +913,8 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-28T00:15:21Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-03T03:08:27Z",
+                "open_issues": 187,
                 "owner": "steveicarus",
                 "repo": "iverilog",
                 "stars": 3666,
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T21:05:24Z",
+                "last_commit": "2026-10-03T03:25:16Z",
                 "open_issues": 193,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3147,
+                "stars": 3148,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:57:37.399Z",
+    "last_updated": "2026-10-03T04:23:40.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",

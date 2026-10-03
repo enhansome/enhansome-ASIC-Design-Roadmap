@@ -118,7 +118,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ### Core IPs and Repos
 
-* [Basic Verilog Modules](https://github.com/pConst/basic_verilog) ⭐ 2,023 | 🐛 0 | 🌐 Verilog | 📅 2026-03-12 📍 - Synthesizable Verilog modules
+* [Basic Verilog Modules](https://github.com/pConst/basic_verilog) ⭐ 2,024 | 🐛 0 | 🌐 Verilog | 📅 2026-03-12 📍 - Synthesizable Verilog modules
 * [32 Mini Projects (Verilog)](https://github.com/sudhamshu091/32-Verilog-Mini-Projects) ⭐ 21 | 🐛 0 | 🌐 Verilog | 📅 2025-08-06 📍👶
 * [OpenCores](https://opencores.org/) ⭐ - IP Cores Archive
 * [FreeCores](http://freecores.github.io/) 📍 - Legacy IPs from OpenCores
@@ -131,9 +131,9 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 #### RISC-V
 
-* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,288 | 🐛 300 | 🌐 Scala | 📅 2026-10-02 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
+* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,289 | 🐛 304 | 🌐 Scala | 📅 2026-10-03 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
 
-* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,840 | 🐛 188 | 🌐 TeX | 📅 2026-10-02 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
+* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,841 | 🐛 188 | 🌐 TeX | 📅 2026-10-02 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
 
 * [picorv32](https://github.com/YosysHQ/picorv32) ⚠️ Archived 📍![stars](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
 
@@ -204,8 +204,8 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ## Tools
 
-* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,666 | 🐛 188 | 🌐 C++ | 📅 2026-09-28![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
-* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,147 | 🐛 193 | 🌐 Verilog | 📅 2026-10-02![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
+* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,666 | 🐛 187 | 🌐 C++ | 📅 2026-10-03![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
+* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,148 | 🐛 193 | 🌐 Verilog | 📅 2026-10-03![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
 * More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) ⭐ 627 | 🐛 4 | 📅 2026-01-03 and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 | 🐛 0 | 📅 2025-06-20
 * [tree-core-ide](https://github.com/microdynamics-cpu/tree-core-ide) ⭐ 112 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-17  📍![stars](https://img.shields.io/github/stars/microdynamics-cpu/tree-core-ide)- A VSCode-based HDL extension.
 * [EDA Playground](https://www.edaplayground.com/) - Edit, save, simulate, synthesize SystemVerilog, Verilog, VHDL and other HDLs from your web browser.
@@ -235,4 +235,4 @@ If this roadmap helped you, consider sharing it with others or contributing back
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
