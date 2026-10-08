@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1177,
+                "stars": 1181,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -109,7 +109,7 @@
                 "open_issues": 5,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2024,
+                    "stars": 2025,
                     "topics": [
                       "altera",
                       "debounce",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-10-07T15:06:40Z",
-                        "open_issues": 311,
+                        "last_commit": "2026-10-08T16:42:15Z",
+                        "open_issues": 319,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7292,
+                        "stars": 7295,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,8 +302,8 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-07T00:14:04Z",
-                        "open_issues": 182,
+                        "last_commit": "2026-10-08T23:40:11Z",
+                        "open_issues": 179,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4846,
@@ -348,7 +348,7 @@
                         "open_issues": 145,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3282,
+                        "stars": 3281,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,8 +374,8 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-07T23:09:02Z",
-                        "open_issues": 278,
+                        "last_commit": "2026-10-08T23:28:21Z",
+                        "open_issues": 279,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
                         "stars": 3150,
@@ -407,7 +407,7 @@
                         "open_issues": 5,
                         "owner": "darklife",
                         "repo": "darkriscv",
-                        "stars": 2622,
+                        "stars": 2623,
                         "topics": [
                           "core",
                           "fpga",
@@ -559,7 +559,7 @@
                         "open_issues": 91,
                         "owner": "jbush001",
                         "repo": "NyuziProcessor",
-                        "stars": 2225,
+                        "stars": 2226,
                         "topics": [
                           "fpga",
                           "gpu",
@@ -640,7 +640,7 @@
                     "open_issues": 2,
                     "owner": "drom",
                     "repo": "awesome-hdl",
-                    "stars": 1177,
+                    "stars": 1181,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -842,7 +842,7 @@
                     "open_issues": 2,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5770,
+                    "stars": 5775,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-07T04:01:29Z",
-                "open_issues": 183,
+                "last_commit": "2026-10-08T03:30:07Z",
+                "open_issues": 182,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3666,
+                "stars": 3668,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-07T23:07:36Z",
-                "open_issues": 199,
+                "last_commit": "2026-10-08T22:35:33Z",
+                "open_issues": 196,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3154,
+                "stars": 3156,
                 "topics": [
                   "cpp",
                   "def",
@@ -971,7 +971,7 @@
                 "open_issues": 5,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:35:00.834Z",
+    "last_updated": "2026-10-08T23:44:30.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
@@ -1040,7 +1040,7 @@
       "open_issues": 0,
       "owner": "abdelazeem201",
       "repo": "ASIC-Design-Roadmap",
-      "stars": 569,
+      "stars": 570,
       "topics": [
         "awesome",
         "awesome-list",
