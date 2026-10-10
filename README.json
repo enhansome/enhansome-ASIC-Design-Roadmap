@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-10-09T16:55:02Z",
-                        "open_issues": 315,
+                        "last_commit": "2026-10-10T15:35:31Z",
+                        "open_issues": 314,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7295,
+                        "stars": 7296,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -348,7 +348,7 @@
                         "open_issues": 145,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3281,
+                        "stars": 3282,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,7 +374,7 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-09T22:51:51Z",
+                        "last_commit": "2026-10-10T11:47:06Z",
                         "open_issues": 279,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
@@ -404,7 +404,7 @@
                         "language": "Verilog",
                         "license": "BSD-3-Clause",
                         "last_commit": "2026-09-04T16:00:51Z",
-                        "open_issues": 5,
+                        "open_issues": 6,
                         "owner": "darklife",
                         "repo": "darkriscv",
                         "stars": 2622,
@@ -455,7 +455,7 @@
                         "open_issues": 29,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1936,
+                        "stars": 1937,
                         "topics": [
                           "china",
                           "core",
@@ -842,7 +842,7 @@
                     "open_issues": 3,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5778,
+                    "stars": 5781,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-09T02:54:27Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-10T16:06:25Z",
+                "open_issues": 207,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3669,
+                "stars": 3670,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T21:47:31Z",
-                "open_issues": 197,
+                "last_commit": "2026-10-10T16:52:26Z",
+                "open_issues": 203,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3160,
+                "stars": 3162,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:15:45.718Z",
+    "last_updated": "2026-10-10T22:31:36.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
