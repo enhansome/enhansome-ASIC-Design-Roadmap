@@ -109,7 +109,7 @@
                 "open_issues": 5,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-10-11T13:36:37Z",
-                        "open_issues": 317,
+                        "last_commit": "2026-10-12T13:58:01Z",
+                        "open_issues": 320,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7300,
+                        "stars": 7306,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -303,10 +303,10 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-10-08T23:40:11Z",
-                        "open_issues": 179,
+                        "open_issues": 180,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4847,
+                        "stars": 4848,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -345,7 +345,7 @@
                         "language": "Assembly",
                         "license": "MIT",
                         "last_commit": "2026-09-27T22:10:01Z",
-                        "open_issues": 145,
+                        "open_issues": 146,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
                         "stars": 3283,
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-11T22:49:37Z",
-                        "open_issues": 284,
+                        "last_commit": "2026-10-12T23:01:26Z",
+                        "open_issues": 286,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
-                        "stars": 3154,
+                        "stars": 3156,
                         "topics": [
                           "ariane",
                           "asic",
@@ -403,7 +403,7 @@
                         "id": 145329615,
                         "language": "Verilog",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-11T03:50:36Z",
+                        "last_commit": "2026-10-12T02:02:20Z",
                         "open_issues": 5,
                         "owner": "darklife",
                         "repo": "darkriscv",
@@ -455,7 +455,7 @@
                         "open_issues": 29,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1937,
+                        "stars": 1938,
                         "topics": [
                           "china",
                           "core",
@@ -486,10 +486,10 @@
                         "language": "Verilog",
                         "license": "Apache-2.0",
                         "last_commit": "2024-06-28T12:18:17Z",
-                        "open_issues": 60,
+                        "open_issues": 61,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1479,
+                        "stars": 1480,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -842,7 +842,7 @@
                     "open_issues": 3,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5786,
+                    "stars": 5785,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-11T22:26:26Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-12T19:36:23Z",
+                "open_issues": 205,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3672,
+                "stars": 3675,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-11T14:43:05Z",
-                "open_issues": 200,
+                "last_commit": "2026-10-12T23:28:52Z",
+                "open_issues": 195,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3164,
+                "stars": 3166,
                 "topics": [
                   "cpp",
                   "def",
@@ -971,7 +971,7 @@
                 "open_issues": 5,
                 "owner": "ben-marshall",
                 "repo": "awesome-open-hardware-verification",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:54:26.750Z",
+    "last_updated": "2026-10-13T01:21:39.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
