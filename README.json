@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-10-28T22:30:11Z",
-                        "open_issues": 350,
+                        "last_commit": "2026-10-29T16:44:31Z",
+                        "open_issues": 355,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7354,
+                        "stars": 7355,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-27T03:35:41Z",
-                        "open_issues": 186,
+                        "last_commit": "2026-10-29T20:42:28Z",
+                        "open_issues": 185,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4869,
+                        "stars": 4868,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -327,7 +327,7 @@
                         "open_issues": 86,
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4394,
+                        "stars": 4395,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -345,7 +345,7 @@
                         "language": "Assembly",
                         "license": "MIT",
                         "last_commit": "2026-10-13T06:45:57Z",
-                        "open_issues": 145,
+                        "open_issues": 148,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
                         "stars": 3300,
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-28T23:03:13Z",
+                        "last_commit": "2026-10-29T23:04:16Z",
                         "open_issues": 315,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
-                        "stars": 3177,
+                        "stars": 3178,
                         "topics": [
                           "ariane",
                           "asic",
@@ -455,7 +455,7 @@
                         "open_issues": 29,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1959,
+                        "stars": 1961,
                         "topics": [
                           "china",
                           "core",
@@ -486,7 +486,7 @@
                         "language": "Verilog",
                         "license": "Apache-2.0",
                         "last_commit": "2024-06-28T12:18:17Z",
-                        "open_issues": 66,
+                        "open_issues": 68,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
                         "stars": 1488,
@@ -559,7 +559,7 @@
                         "open_issues": 91,
                         "owner": "jbush001",
                         "repo": "NyuziProcessor",
-                        "stars": 2230,
+                        "stars": 2231,
                         "topics": [
                           "fpga",
                           "gpu",
@@ -589,7 +589,7 @@
                         "open_issues": 3,
                         "owner": "ZipCPU",
                         "repo": "zipcpu",
-                        "stars": 1596,
+                        "stars": 1597,
                         "topics": [
                           "cpu",
                           "cross-compiler",
@@ -842,7 +842,7 @@
                     "open_issues": 3,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5823,
+                    "stars": 5827,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-28T14:55:12Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-29T04:00:08Z",
+                "open_issues": 209,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3702,
+                "stars": 3704,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-28T21:17:37Z",
-                "open_issues": 231,
+                "last_commit": "2026-10-29T22:59:04Z",
+                "open_issues": 235,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3236,
+                "stars": 3239,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:13:38.559Z",
+    "last_updated": "2026-10-29T23:17:49.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
