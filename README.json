@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2030,
+                    "stars": 2029,
                     "topics": [
                       "altera",
                       "debounce",
@@ -246,7 +246,7 @@
                     "open_issues": 0,
                     "owner": "Sudhamshu091",
                     "repo": "32-Verilog-Mini-Projects",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": [
                       "miniproject",
                       "verilog",
@@ -277,8 +277,8 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-11-02T18:25:58Z",
-                        "open_issues": 374,
+                        "last_commit": "2026-11-03T21:50:31Z",
+                        "open_issues": 373,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
                         "stars": 7363,
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-02T22:51:04Z",
-                        "open_issues": 190,
+                        "last_commit": "2026-11-03T21:55:58Z",
+                        "open_issues": 192,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4877,
+                        "stars": 4878,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-02T23:01:02Z",
-                        "open_issues": 335,
+                        "last_commit": "2026-11-03T23:04:28Z",
+                        "open_issues": 337,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
-                        "stars": 3183,
+                        "stars": 3185,
                         "topics": [
                           "ariane",
                           "asic",
@@ -434,7 +434,7 @@
                         "open_issues": 25,
                         "owner": "XUANTIE-RV",
                         "repo": "wujian100_open",
-                        "stars": 2031,
+                        "stars": 2032,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -455,7 +455,7 @@
                         "open_issues": 31,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1970,
+                        "stars": 1972,
                         "topics": [
                           "china",
                           "core",
@@ -486,10 +486,10 @@
                         "language": "Verilog",
                         "license": "Apache-2.0",
                         "last_commit": "2024-06-28T12:18:17Z",
-                        "open_issues": 73,
+                        "open_issues": 74,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1490,
+                        "stars": 1492,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -842,7 +842,7 @@
                     "open_issues": 3,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5838,
+                    "stars": 5840,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-02T00:53:44Z",
-                "open_issues": 210,
+                "last_commit": "2026-11-03T17:28:28Z",
+                "open_issues": 211,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3711,
+                "stars": 3714,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T00:35:09Z",
-                "open_issues": 236,
+                "last_commit": "2026-11-03T23:24:03Z",
+                "open_issues": 241,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3250,
+                "stars": 3254,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:35:22.605Z",
+    "last_updated": "2026-11-03T23:59:05.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
