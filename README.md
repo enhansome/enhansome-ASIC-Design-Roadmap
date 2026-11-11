@@ -106,11 +106,11 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 | Name                                                                                                                               | Type | Description                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------ |
 | [Awesome FPGA](https://github.com/Vitorian/awesome-fpga) ⭐ 401 \| 🐛 4 \| 📅 2017-05-25                                            | 📍⭐  | FPGA resources and boards      |
-| [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,183 \| 🐛 2 \| 📅 2026-10-27                                                | 📍⭐  | Hardware description languages |
+| [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,183 \| 🐛 3 \| 📅 2026-10-27                                                | 📍⭐  | Hardware description languages |
 | [Awesome Open Source EDA](https://github.com/clin99/awesome-eda) ⭐ 103 \| 🐛 1 \| 📅 2019-06-26                                    | 📍   | Open-source EDA tools          |
-| [Awesome Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) ⭐ 635 \| 🐛 5 \| 📅 2026-01-03 | 📍   | Verification tools             |
+| [Awesome Hardware Verification](https://github.com/ben-marshall/awesome-open-hardware-verification) ⭐ 637 \| 🐛 5 \| 📅 2026-01-03 | 📍   | Verification tools             |
 | [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 92 \| 🐛 0 \| 📅 2025-06-20                                       | 📍   | Open-source IC design tools    |
-| [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 363 \| 🐛 0 \| 📅 2026-09-27                            | 📍   | Lattice FPGA board list        |
+| [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 364 \| 🐛 0 \| 📅 2026-09-27                            | 📍   | Lattice FPGA board list        |
 
 ***
 
@@ -131,15 +131,15 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 #### RISC-V
 
-* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,376 | 🐛 393 | 🌐 Scala | 📅 2026-11-10 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
+* [XiangShan](https://github.com/OpenXiangShan/XiangShan) ⭐ 7,383 | 🐛 404 | 🌐 Scala | 📅 2026-11-10 📍![stars](https://img.shields.io/github/stars/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor.
 
-* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,892 | 🐛 195 | 🌐 TeX | 📅 2026-11-09 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
+* [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual) ⭐ 4,894 | 🐛 197 | 🌐 TeX | 📅 2026-11-10 - This repository contains the LaTeX source for the draft RISC-V Instruction Set Manual.
 
 * [picorv32](https://github.com/YosysHQ/picorv32) ⚠️ Archived 📍![stars](https://img.shields.io/github/stars/YosysHQ/picorv32) - A Size-Optimized RISC-V CPU.
 
 * [VexRiscv](https://github.com/SpinalHDL/VexRiscv) ⭐ 3,305 | 🐛 154 | 🌐 Assembly | 📅 2026-10-13 📍![stars](https://img.shields.io/github/stars/SpinalHDL/VexRiscv) - A FPGA friendly 32 bit RISC-V CPU implementation.
 
-* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,189 | 🐛 352 | 🌐 Assembly | 📅 2026-11-09 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
+* [CVA6 RISC-V CPU](https://github.com/openhwgroup/cva6) ⭐ 3,190 | 🐛 352 | 🌐 Assembly | 📅 2026-11-10 📍![stars](https://img.shields.io/github/stars/openhwgroup/cva6) - An application class 6-stage RISC-V CPU capable of booting Linux.
 
 * [darkriscv](https://github.com/darklife/darkriscv) ⭐ 2,639 | 🐛 6 | 🌐 Verilog | 📅 2026-11-08 📍![stars](https://img.shields.io/github/stars/darklife/darkriscv) - A proof of concept for the opensource RISC-V instruction set.
 
@@ -158,7 +158,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 #### Others
 
 * [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) ⭐ 2,233 | 🐛 89 | 🌐 C | 📅 2026-11-01 📍![stars](https://img.shields.io/github/stars/jbush001/NyuziProcessor) - GPGPU microprocessor architecture.
-* [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐ 1,596 | 🐛 3 | 🌐 Verilog | 📅 2026-09-16 ⭐📍![stars](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
+* [zipcpu](https://github.com/ZipCPU/zipcpu) ⭐ 1,595 | 🐛 4 | 🌐 Verilog | 📅 2026-09-16 ⭐📍![stars](https://img.shields.io/github/stars/ZipCPU/zipcpu) - with detailed comments.
 * [openmsp430](https://opencores.org/projects/openmsp430) - The openMSP430 is a synthesizable 16bit microcontroller core written in Verilog.
 
 ## Tutorials and Courses 💬[Intro](./Tutorials%20and%20Courses/README.md)
@@ -168,7 +168,7 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ### HDL
 
-* More information about hardware description language on [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,183 | 🐛 2 | 📅 2026-10-27
+* More information about hardware description language on [Awesome HDL](https://github.com/drom/awesome-hdl) ⭐ 1,183 | 🐛 3 | 📅 2026-10-27
 
 #### Verilog Grammar
 
@@ -205,14 +205,14 @@ The aim of this roadmap is to provide aspiring ASIC and Digital IC designers a c
 
 ### FPGA
 
-* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,851 | 🐛 3 | 📅 2022-05-15
-* [Complex Programmable Logic Device (CPLD) Guide](https://github.com/mikeroyal/CPLD-Guide) ⭐ 65 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09 📍![stars](https://img.shields.io/github/stars/mikeroyal/CPLD-Guide) - A guide covering CPLD.
+* [FPGA Tutorial](https://github.com/LeiWang1999/FPGA) ⭐ 5,853 | 🐛 3 | 📅 2022-05-15
+* [Complex Programmable Logic Device (CPLD) Guide](https://github.com/mikeroyal/CPLD-Guide) ⭐ 66 | 🐛 0 | 🌐 Verilog | 📅 2022-01-09 📍![stars](https://img.shields.io/github/stars/mikeroyal/CPLD-Guide) - A guide covering CPLD.
 
 ## Tools
 
-* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,729 | 🐛 223 | 🌐 C++ | 📅 2026-11-09![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
-* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,276 | 🐛 258 | 🌐 Verilog | 📅 2026-11-09![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
-* More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) ⭐ 635 | 🐛 5 | 📅 2026-01-03 and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 92 | 🐛 0 | 📅 2025-06-20
+* [Icarus Verilog](http://iverilog.icarus.com/) 📍[Github](https://github.com/steveicarus/iverilog) ⭐ 3,734 | 🐛 211 | 🌐 C++ | 📅 2026-11-10![stars](https://img.shields.io/github/stars/steveicarus/iverilog) - A Verilog simulation and synthesis tool.
+* [OpenROAD](https://theopenroadproject.org/) 💬[Doc](https://openroad.readthedocs.io/en/latest/main/README.html) 📍[Github](https://github.com/The-OpenROAD-Project/OpenROAD) ⭐ 3,279 | 🐛 268 | 🌐 Verilog | 📅 2026-11-10![stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD) - An RTL-to-GDS Flow
+* More information about hardware dv tools on [Awesome Open Hardware Verification - Tools](https://github.com/ben-marshall/awesome-open-hardware-verification#Tools) ⭐ 637 | 🐛 5 | 📅 2026-01-03 and [Awesome HWD Tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 92 | 🐛 0 | 📅 2025-06-20
 * [tree-core-ide](https://github.com/microdynamics-cpu/tree-core-ide) ⭐ 112 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-17  📍![stars](https://img.shields.io/github/stars/microdynamics-cpu/tree-core-ide)- A VSCode-based HDL extension.
 * [EDA Playground](https://www.edaplayground.com/) - Edit, save, simulate, synthesize SystemVerilog, Verilog, VHDL and other HDLs from your web browser.
 * [WaveDrom](https://wavedrom.com/) - Digital Timing Diagram everywhere
@@ -241,4 +241,4 @@ If this roadmap helped you, consider sharing it with others or contributing back
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
