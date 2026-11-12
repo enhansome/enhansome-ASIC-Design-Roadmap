@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pConst",
                     "repo": "basic_verilog",
-                    "stars": 2032,
+                    "stars": 2033,
                     "topics": [
                       "altera",
                       "debounce",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-11-10T23:47:07Z",
-                        "open_issues": 404,
+                        "last_commit": "2026-11-12T01:25:55Z",
+                        "open_issues": 396,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7383,
+                        "stars": 7389,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,8 +302,8 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-10T23:46:49Z",
-                        "open_issues": 197,
+                        "last_commit": "2026-11-12T01:11:46Z",
+                        "open_issues": 195,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4894,
@@ -327,7 +327,7 @@
                         "open_issues": 86,
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4396,
+                        "stars": 4398,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -348,7 +348,7 @@
                         "open_issues": 154,
                         "owner": "SpinalHDL",
                         "repo": "VexRiscv",
-                        "stars": 3305,
+                        "stars": 3308,
                         "topics": [
                           "cpu",
                           "fpga",
@@ -374,8 +374,8 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-10T22:41:49Z",
-                        "open_issues": 352,
+                        "last_commit": "2026-11-11T22:49:24Z",
+                        "open_issues": 354,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
                         "stars": 3190,
@@ -407,7 +407,7 @@
                         "open_issues": 6,
                         "owner": "darklife",
                         "repo": "darkriscv",
-                        "stars": 2639,
+                        "stars": 2641,
                         "topics": [
                           "core",
                           "fpga",
@@ -455,7 +455,7 @@
                         "open_issues": 42,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1982,
+                        "stars": 1984,
                         "topics": [
                           "china",
                           "core",
@@ -489,7 +489,7 @@
                         "open_issues": 79,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1497,
+                        "stars": 1499,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -589,7 +589,7 @@
                         "open_issues": 4,
                         "owner": "ZipCPU",
                         "repo": "zipcpu",
-                        "stars": 1595,
+                        "stars": 1596,
                         "topics": [
                           "cpu",
                           "cross-compiler",
@@ -751,7 +751,7 @@
                     "language": "Assembly",
                     "license": null,
                     "last_commit": "2024-01-04T22:44:46Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "mikeroyal",
                     "repo": "RISC-V-Guide",
                     "stars": 665,
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-10T07:05:08Z",
+                "last_commit": "2026-11-11T05:16:11Z",
                 "open_issues": 211,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3734,
+                "stars": 3736,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T23:40:52Z",
-                "open_issues": 268,
+                "last_commit": "2026-11-11T23:13:29Z",
+                "open_issues": 274,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3279,
+                "stars": 3284,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:01:52.775Z",
+    "last_updated": "2026-11-12T01:31:48.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
@@ -1040,7 +1040,7 @@
       "open_issues": 0,
       "owner": "abdelazeem201",
       "repo": "ASIC-Design-Roadmap",
-      "stars": 583,
+      "stars": 584,
       "topics": [
         "awesome",
         "awesome-list",
