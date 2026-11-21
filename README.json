@@ -39,10 +39,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-27T22:57:08Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1183,
+                "stars": 1182,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -141,7 +141,7 @@
                 "open_issues": 1,
                 "owner": "TM90",
                 "repo": "awesome-hwd-tools",
-                "stars": 92,
+                "stars": 91,
                 "topics": [
                   "asic",
                   "awesome-list",
@@ -168,7 +168,7 @@
                 "open_issues": 0,
                 "owner": "kelu124",
                 "repo": "awesome-latticeFPGAs",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-11-20T17:18:26Z",
-                        "open_issues": 413,
+                        "last_commit": "2026-11-21T22:32:20Z",
+                        "open_issues": 412,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7413,
+                        "stars": 7415,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-20T23:57:44Z",
-                        "open_issues": 197,
+                        "last_commit": "2026-11-21T01:29:00Z",
+                        "open_issues": 196,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4899,
+                        "stars": 4900,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -327,7 +327,7 @@
                         "open_issues": 86,
                         "owner": "YosysHQ",
                         "repo": "picorv32",
-                        "stars": 4399,
+                        "stars": 4400,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -378,7 +378,7 @@
                         "open_issues": 366,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
-                        "stars": 3203,
+                        "stars": 3207,
                         "topics": [
                           "ariane",
                           "asic",
@@ -407,7 +407,7 @@
                         "open_issues": 6,
                         "owner": "darklife",
                         "repo": "darkriscv",
-                        "stars": 2646,
+                        "stars": 2645,
                         "topics": [
                           "core",
                           "fpga",
@@ -455,7 +455,7 @@
                         "open_issues": 42,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1995,
+                        "stars": 1997,
                         "topics": [
                           "china",
                           "core",
@@ -637,10 +637,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-10-27T22:57:08Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "drom",
                     "repo": "awesome-hdl",
-                    "stars": 1183,
+                    "stars": 1182,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "Verilog",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-20T17:34:28Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-21T23:34:19Z",
+                "open_issues": 222,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3749,
+                "stars": 3751,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T15:39:31Z",
-                "open_issues": 291,
+                "last_commit": "2026-11-21T22:39:55Z",
+                "open_issues": 285,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3302,
+                "stars": 3306,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:47:18.431Z",
+    "last_updated": "2026-11-21T23:47:44.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
@@ -1040,7 +1040,7 @@
       "open_issues": 0,
       "owner": "abdelazeem201",
       "repo": "ASIC-Design-Roadmap",
-      "stars": 586,
+      "stars": 587,
       "topics": [
         "awesome",
         "awesome-list",
