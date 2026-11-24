@@ -42,7 +42,7 @@
                 "open_issues": 5,
                 "owner": "drom",
                 "repo": "awesome-hdl",
-                "stars": 1182,
+                "stars": 1181,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,11 +277,11 @@
                         "id": 271929004,
                         "language": "Scala",
                         "license": "MulanPSL-2.0",
-                        "last_commit": "2026-11-22T20:54:31Z",
-                        "open_issues": 418,
+                        "last_commit": "2026-11-24T03:31:20Z",
+                        "open_issues": 420,
                         "owner": "OpenXiangShan",
                         "repo": "XiangShan",
-                        "stars": 7415,
+                        "stars": 7419,
                         "topics": [
                           "chisel",
                           "microarchitecture",
@@ -302,11 +302,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-21T01:29:00Z",
-                        "open_issues": 198,
+                        "last_commit": "2026-11-24T03:37:03Z",
+                        "open_issues": 204,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4900,
+                        "stars": 4899,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -374,11 +374,11 @@
                         "id": 118652371,
                         "language": "Assembly",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-20T21:56:29Z",
-                        "open_issues": 366,
+                        "last_commit": "2026-11-23T17:02:27Z",
+                        "open_issues": 369,
                         "owner": "openhwfoundation",
                         "repo": "cva6",
-                        "stars": 3207,
+                        "stars": 3209,
                         "topics": [
                           "ariane",
                           "asic",
@@ -403,11 +403,11 @@
                         "id": 145329615,
                         "language": "Verilog",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-11-08T00:38:08Z",
-                        "open_issues": 6,
+                        "last_commit": "2026-11-23T14:28:34Z",
+                        "open_issues": 5,
                         "owner": "darklife",
                         "repo": "darkriscv",
-                        "stars": 2645,
+                        "stars": 2644,
                         "topics": [
                           "core",
                           "fpga",
@@ -455,7 +455,7 @@
                         "open_issues": 42,
                         "owner": "riscv-mcu",
                         "repo": "e203_hbirdv2",
-                        "stars": 1997,
+                        "stars": 1998,
                         "topics": [
                           "china",
                           "core",
@@ -489,7 +489,7 @@
                         "open_issues": 86,
                         "owner": "XUANTIE-RV",
                         "repo": "openc910",
-                        "stars": 1502,
+                        "stars": 1503,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:11:51.893Z"
@@ -506,7 +506,7 @@
                         "id": 122994841,
                         "language": "SystemVerilog",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-20T14:38:58Z",
+                        "last_commit": "2026-11-23T11:18:07Z",
                         "open_issues": 39,
                         "owner": "pulp-platform",
                         "repo": "pulp",
@@ -640,7 +640,7 @@
                     "open_issues": 5,
                     "owner": "drom",
                     "repo": "awesome-hdl",
-                    "stars": 1182,
+                    "stars": 1181,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -842,7 +842,7 @@
                     "open_issues": 3,
                     "owner": "LeiWang1999",
                     "repo": "FPGA",
-                    "stars": 5877,
+                    "stars": 5881,
                     "topics": [
                       "fpga",
                       "pynq",
@@ -913,11 +913,11 @@
                 "id": 16267,
                 "language": "Verilog",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-22T23:39:55Z",
-                "open_issues": 221,
+                "last_commit": "2026-11-23T15:17:51Z",
+                "open_issues": 226,
                 "owner": "steveicarus",
                 "repo": "iverilog",
-                "stars": 3753,
+                "stars": 3755,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:11:51.893Z"
@@ -934,11 +934,11 @@
                 "id": 218110222,
                 "language": "Verilog",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-22T14:57:02Z",
-                "open_issues": 288,
+                "last_commit": "2026-11-24T00:17:49Z",
+                "open_issues": 286,
                 "owner": "The-OpenROAD-Project",
                 "repo": "OpenROAD",
-                "stars": 3310,
+                "stars": 3311,
                 "topics": [
                   "cpp",
                   "def",
@@ -1028,7 +1028,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:18:31.622Z",
+    "last_updated": "2026-11-24T04:17:11.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps – moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
